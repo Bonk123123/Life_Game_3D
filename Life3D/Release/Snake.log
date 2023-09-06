@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Snake.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Field.cpp
+  Life.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\execution(13): warning STL4038: The contents of <execution> are available only with C++17 or later.
+C:\Users\Arthur\source\repos\Snake\Snake\Life.cpp(284,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arthur\source\repos\Snake\Snake\Life.cpp(452,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arthur\source\repos\Snake\Snake\Life.cpp(465,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\execution(13): warning STL4038: The contents of <execution> are available only with C++17 or later.
+  Pixel.cpp
+  StrokePixel.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 417 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Snake.vcxproj -> C:\Users\Arthur\source\repos\Snake\Release\Life3D.exe

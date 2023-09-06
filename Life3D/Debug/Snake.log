@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(37,25): warning C4838: Преобразование из "GLdouble" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(37,60): warning C4838: Преобразование из "GLdouble" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(37,95): warning C4838: Преобразование из "GLdouble" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(59,28): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(59,59): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Snake.h(59,90): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\Arthur\source\repos\Snake\Snake\Life.h(165,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arthur\source\repos\Snake\Snake\Life.h(256,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arthur\source\repos\Snake\Snake\Life.h(269,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Snake.vcxproj -> C:\Users\Arthur\source\repos\Snake\Debug\Snake.exe
